@@ -12,7 +12,7 @@
       body {
         height: 100vh;
         
-        background-color: #FFFFFF;
+        background-color: #FAFAF9;
         
       }
       .container{
@@ -22,7 +22,7 @@
         align-items:center;
         margin: 75px;
         gap:50px;
-        max-height:500px;
+        max-height:800px;
         width:auto;
         height: 100%;
 
